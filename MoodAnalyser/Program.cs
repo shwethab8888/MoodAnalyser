@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Welcome to MoodAnalyser");
-            MoodAnalyser.Mood_Analyser();
-        
+           // Console.WriteLine("Welcome to MoodAnalyser");
+            //MoodAnalyser.Mood_Analyser();
+            MoodAnalyserInvalid.MoodAnalyser_Invalid();
         
         
         }
